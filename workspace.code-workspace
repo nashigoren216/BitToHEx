@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.renderWhitespace": "none",
+
+		"workbench.colorCustomizations": {
+			"activityBarBadge.background": "#5577d6",
+			"activityBar.background": "#5577d6",
+			"activityBar.foreground": "#000000",
+			"statusBar.background" : "#5577d6",
+			"titleBar.activeBackground" : "#5577d6"
+		},
+		"markdown-preview-enhanced.enableExtendedTableSyntax": true
+	}
+}
