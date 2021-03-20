@@ -1,6 +1,0 @@
-
-"""
-import * = まとめてimport
-from 
-"""
-
